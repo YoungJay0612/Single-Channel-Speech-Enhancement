@@ -4,11 +4,31 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 ## Speech Denoise
 
 ### 2021-03-20  
+paper title: Decoupling Magnitude and Phase Optimization with a Two-Stage Deep Network  
+paper link: https://arxiv.org/pdf/2102.04198v1.pdf  
+Authors and Publishers: 中科院 Li Andong DNS2021 No.1  
+code link:  
+
+paper title: A Recursive Network with Dynamic Attention for Monaural Speech Enhancement  
+paper link: https://arxiv.org/abs/2003.12973  
+Authors and Publishers: 中科院  Li Andong  InterSpeech2020  
+code link: https://github.com/Andong-Li-speech/DARCN  
+
+paper title: Interactive Speech and Noise Modeling for Speech Enhancement  
+paper links:　https://arxiv.org/pdf/2012.09408.pdf   
+Authors and Publishers: Microsoft AAAI 2021  
+remark：首次提出交互式语音和噪声分离模型，也可以应用到语音分离等其他多信号处理的任务    
+code link:  
 
 paper title: CAUNet: Context-Aware UNet for Speech Enhancement in Time Domain  
 paper links:　https://github.com/key2miao/CAUNet  
 Authors and Publishers: Concordia University, Montreal, Canada  ISCAS 2021  
+code link:  
 
+paper title: End to End Waveform Utterance Enhancement for Direct Evaluation Metrics Optimization by Fully Convolutional Neural Networks  
+Authors and Publishers: 台湾中央研究院陶宇 2018 TASLP  
+remark：SpeechBrain中的wav2wav语音增强所使用的方法  
+code link:  
 
 paper title:　Monaural Speech Enhancement with Complex Convolutional Block Attention Module and Joint Time Frequency Losses  
 paper links:　https://arxiv.org/pdf/2102.01993v1.pdf  
@@ -63,7 +83,9 @@ remark: Unofficial PyTorch implementation
 基于深度特征映射的语音增强方法：
 https://github.com/linan2/TensorFlow-speech-enhancement-Chinese
 
-
+ICASSP2021:
+Seoul National Unicersity: Real-time Denoising and Dereverberation with Tiny Recurrent U-Net    
+Facebook：【基于图神经网络的多通道语音增强】Multi-Channel Speech Enhancement Using Graph Neural Networks
 
 ## Speech Dereverberation
 NAra_WPE: https://github.com/fgnt/nara_wpe  
