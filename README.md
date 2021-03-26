@@ -93,6 +93,12 @@ DNN_WPE: https://github.com/nttcslab-sp/dnn_wpe
 
 ## Speech Separation
 
+2021-3-26
+paper title: Blind Speech Separation and Dereverberation using Neural Beamforming 基于神经波束形成的语音盲分离与去混响  
+links: https://arxiv.org/pdf/2103.13443.pdf  
+Authors and Publishers:  
+code link:  
+
 Wave-U-Net: https://github.com/f90/Wave-U-Net-Pytorch  
 paper links: https://arxiv.org/abs/1806.03185  
 
