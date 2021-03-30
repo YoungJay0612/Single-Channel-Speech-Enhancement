@@ -3,6 +3,13 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 
 ## Speech Denoise
 
+### 2021-3-30  
+paper title:Channel-Attention Dense U-Net for Multichannel Speech Enhancement  
+paper link: https://arxiv.org/pdf/2102.04198v1.pdf  
+paper_with_code:https://paperswithcode.com/sota/speech-enhancement-on-chime-3  
+Authors and Publishers: Harvard University, Amazon & MIT  
+code link:  
+
 ### 2021-03-20  
 paper title: Decoupling Magnitude and Phase Optimization with a Two-Stage Deep Network  
 paper link: https://arxiv.org/pdf/2102.04198v1.pdf  
