@@ -3,6 +3,12 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 
 ## Speech Denoise
 
+### 2021-3-31
+paper title:Time-domain Speech Enhancement with Generative Adversarial Learning 基于生成对抗学习的时域语音增强  
+paper link: https://arxiv.org/pdf/2103.16149.pdf  
+Authors and Publishers: Harbin Engineering University, ByteDance  
+
+
 ### 2021-3-30  
 paper title:Channel-Attention Dense U-Net for Multichannel Speech Enhancement  
 paper link: https://arxiv.org/pdf/2102.04198v1.pdf  
