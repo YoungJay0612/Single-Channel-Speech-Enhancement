@@ -4,7 +4,7 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 ## Speech Denoise
 
 ### 2021-4-2
-paper title: Y$^2$-Net FCRN for Acoustic Echo and Noise Suppression 用于声学回波和噪声抑制的净FcRN  
+paper title: Y^2-Net FCRN for Acoustic Echo and Noise Suppression 用于声学回波和噪声抑制的净FcRN  
 Authors and Publishers:   Institute for Communications Technology, Technische Universitat Braunschweig, Schleinitzstr. , Braunschweig, Germany  
 paper link: https://arxiv.org/pdf/2103.17189.pdf  
 
