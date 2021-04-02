@@ -3,6 +3,11 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 
 ## Speech Denoise
 
+### 2021-4-2
+paper title: Y$^2$-Net FCRN for Acoustic Echo and Noise Suppression 用于声学回波和噪声抑制的净FcRN  
+Authors and Publishers:   Institute for Communications Technology, Technische Universitat Braunschweig, Schleinitzstr. , Braunschweig, Germany  
+paper link: https://arxiv.org/pdf/2103.17189.pdf  
+
 ### 2021-3-31
 paper title:Time-domain Speech Enhancement with Generative Adversarial Learning 基于生成对抗学习的时域语音增强  
 paper link: https://arxiv.org/pdf/2103.16149.pdf  
@@ -101,6 +106,13 @@ Seoul National Unicersity: Real-time Denoising and Dereverberation with Tiny Rec
 Facebook：【基于图神经网络的多通道语音增强】Multi-Channel Speech Enhancement Using Graph Neural Networks
 
 ## Speech Dereverberation
+
+pape rtitle: TeCANet Temporal-Contextual Attention Network for Environment-Aware Speech Dereverberation  
+TeCANet：支持环境感知语音去混响的时间-上下文注意网络  
+Authors and Publishers: Peking University, Shenzhen Tencent AI Lab  
+remark: ：Submitted to Interspeech 2021  
+paper links:https://arxiv.org/pdf/2103.16849.pdf  
+
 NAra_WPE: https://github.com/fgnt/nara_wpe  
 DNN_WPE: https://github.com/nttcslab-sp/dnn_wpe  
 
