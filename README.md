@@ -3,6 +3,12 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 
 ## Speech Denoise
 
+### 202104-6
+paper title: Real-time Streaming Wave-U-Net with Temporal Convolutions for Multichannel Speech Enhancement 用于多通道语音增强的带时间卷积的实时流式Wave-U网    
+Authors and Publishers:   HuaWei  Submitted to InterSpeech2021  
+paper link: https://arxiv.org/pdf/2104.01923.pdf  
+
+
 ### 2021-4-2
 paper title: Y^2-Net FCRN for Acoustic Echo and Noise Suppression 用于声学回波和噪声抑制的净FcRN  
 Authors and Publishers:   Institute for Communications Technology, Technische Universitat Braunschweig, Schleinitzstr. , Braunschweig, Germany  
@@ -137,6 +143,10 @@ Spleeter: https://github.com/deezer/spleeter
 DTLN: https://github.com/YoungJay0612/DTLN-aec-TensorFlow  
 RNN_AEC: https://github.com/shichaog/RNNAec 葛世超
 
+### Speech Quality Assessment
 
+paper title: MetricNet: Towards Improved Modeling For Non-Intrusive Speech Quality Assessment  MetricNet：面向非侵入式语音质量评估的改进建模  
+paper links: https://arxiv.org/pdf/2104.01227.pdf  
+Authors and Publishers: Tencent AI Lab  
 
 
