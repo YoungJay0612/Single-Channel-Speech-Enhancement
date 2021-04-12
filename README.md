@@ -8,8 +8,7 @@ paper title: Speech Denoising without Clean Training Data: a Noise2Noise Approac
 Authors and Publishers: Department of Computer Science and Engineering, PES University 法国 Sumbitted to INTERSPEECH 2021
 paper link: https://arxiv.org/pdf/2104.03838.pdf  
 code links: https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data  
-description： 克服了基于深度学习的语音去噪方法对干净语音数据依赖性大的障碍，证明了仅使用有噪声的语音样本就可以训练深度语音去噪网络。  
-此外，在涉及复杂噪声分布和低信噪比的情况下，仅使用有噪声的音频目标的训练机制比使用干净的音频目标的传统训练机制具有更好的去噪性能。  
+description： 克服了基于深度学习的语音去噪方法对干净语音数据依赖性大的障碍，证明了仅使用有噪声的语音样本就可以训练深度语音去噪网络。  此外，在涉及复杂噪声分布和低信噪比的情况下，仅使用有噪声的音频目标的训练机制比使用干净的音频目标的传统训练机制具有更好的去噪性能。  
 
 
 ### 202104-6
