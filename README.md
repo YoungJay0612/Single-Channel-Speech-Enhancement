@@ -4,12 +4,23 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 ## Speech Denoise
 
 ### 2021-4-12
+
+
+
+### 2021-4-9
 paper title: Speech Denoising without Clean Training Data: a Noise2Noise Approach 无干净训练数据的语音去噪：Noise2Noise方法  
-Authors and Publishers: Department of Computer Science and Engineering, PES University 法国 Sumbitted to INTERSPEECH 2021
+Authors and Publishers: Department of Computer Science and Engineering, PES University 法国 Sumbitted to INTERSPEECH 2021  
 paper link: https://arxiv.org/pdf/2104.03838.pdf  
 code links: https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data  
 description： 克服了基于深度学习的语音去噪方法对干净语音数据依赖性大的障碍，证明了仅使用有噪声的语音样本就可以训练深度语音去噪网络。  此外，在涉及复杂噪声分布和低信噪比的情况下，仅使用有噪声的音频目标的训练机制比使用干净的音频目标的传统训练机制具有更好的去噪性能。  
 
+paper title: Phoneme-based Distribution Regularization for Speech Enhancement 基于音素的分布正则化在语音增强中的应用  
+Authors and Publishers:   USTC&MRA  ICASSP 2021  
+paper link: https://arxiv.org/pdf/2104.03759.pdf  
+
+paper title: MetricGAN+: An Improved Version of MetricGAN for Speech Enhancement MetricGAN+：语音增强的MetricGAN改进版本  
+Authors and Publishers:   Yu Tsao https://github.com/speechbrain/speechbrain  
+paper link: https://arxiv.org/ftp/arxiv/papers/2104/2104.03538.pdf    
 
 ### 202104-6
 paper title: Real-time Streaming Wave-U-Net with Temporal Convolutions for Multichannel Speech Enhancement 用于多通道语音增强的带时间卷积的实时流式Wave-U网    
