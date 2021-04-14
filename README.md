@@ -3,6 +3,11 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 
 ## Speech Denoise
 
+### 2021-4-14
+paper title: Complex Spectral Mapping With Attention Based Convolution Recrrent Neural Network for Speech Enhancement 基于注意力的卷积神经网络复谱映射语音增强  
+Authors and Publishers:   云从科技 submitted to INTERSPEECH 2021  
+paper link: https://arxiv.org/pdf/2104.05267.pdf     
+
 ### 2021-4-12
 paper title: Joint Online Multichannel Acoustic Echo Cancellation, Speech Dereverberation and Source Separation 联合在线多通道声学回波对消、语音去混响和源分离  
 Authors and Publishers:   Alibaba QiangFu submitted to INTERSPEECH 2021  
