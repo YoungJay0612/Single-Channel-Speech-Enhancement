@@ -1,6 +1,13 @@
 # Speech-Processing-Papers-Code(持续更新中)
 Keep track of good articles on speech processing, mainly on speech enhancement, include speech denoise, speech dereverberation and aec、agc, etc.
 
+## Speech Deep Learning
+
+### 2021-4-23
+paper title: Interpreting intermediate convolutional layers of CNNs trained on raw speech 解释在原始语音上训练的CNN的中间卷积层  
+paper link: https://arxiv.org/pdf/2104.09489.pdf  
+
+
 ## Speech Denoise
 
 ### 2021-4-23
@@ -155,7 +162,16 @@ DNN_WPE: https://github.com/nttcslab-sp/dnn_wpe
 
 ## Speech Separation
 
-2021-3-26
+### 2021-4-23
+paper title: Many-Speakers Single Channel Speech Separation with Optimal Permutation Training 基于最优排列训练的多说话人单通道语音分离  
+Authors and Publishers: FaceBook AI Research  
+links: https://arxiv.org/pdf/2104.08955.pdf  
+
+paper title : MIMO Self-attentive RNN Beamformer for Multi-speaker Speech Separation 用于多说话人语音分离的MIMO自关注RNN波束形成器  
+Authors and Publishers: Tecent AI Lab 中科院自动化所  
+links: https://arxiv.org/pdf/2104.08450.pdf  
+
+### 2021-3-26
 paper title: Blind Speech Separation and Dereverberation using Neural Beamforming 基于神经波束形成的语音盲分离与去混响  
 links: https://arxiv.org/pdf/2103.13443.pdf  
 Authors and Publishers:  
