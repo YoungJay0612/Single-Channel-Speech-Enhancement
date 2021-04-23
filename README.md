@@ -3,6 +3,11 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 
 ## Speech Denoise
 
+### 2021-4-23
+paper title: Nonlinear Spatial Filtering in Multichannel Speech Enhancement 非线性空间滤波在多通道语音增强中的应用  
+paper link: https://arxiv.org/pdf/2104.11033.pdf  
+
+
 ### 2021-4-14
 paper title: Complex Spectral Mapping With Attention Based Convolution Recrrent Neural Network for Speech Enhancement 基于注意力的卷积神经网络复谱映射语音增强  
 Authors and Publishers:   云从科技 submitted to INTERSPEECH 2021  
