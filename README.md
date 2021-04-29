@@ -10,6 +10,12 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2021-4-29
+paper title: DPT-FSNet:Dual-path Transformer Based Full-band and Sub-band Fusion Network for Speech Enhancement  
+标题：DPT-FSNET：基于双路Transformer的全带和子带语音增强融合网络  
+paper link: https://arxiv.org/pdf/2104.13002.pdf  
+Authors and Publishers:  中科院  
+
 ### 2021-4-23
 paper title: Nonlinear Spatial Filtering in Multichannel Speech Enhancement 非线性空间滤波在多通道语音增强中的应用  
 paper link: https://arxiv.org/pdf/2104.11033.pdf  
@@ -162,6 +168,11 @@ DNN_WPE: https://github.com/nttcslab-sp/dnn_wpe
 
 ## Speech Separation
 
+### 2021-4-29
+paper title: Complex Neural Spatial Filter: Enhancing Multi-channel Target Speech Separation in Complex Domain  
+标题：复神经空间过滤：增强复数域多通道目标语音分离  
+links: https://arxiv.org/pdf/2104.12359.pdf  
+
 ### 2021-4-23
 paper title: Many-Speakers Single Channel Speech Separation with Optimal Permutation Training 基于最优排列训练的多说话人单通道语音分离  
 Authors and Publishers: FaceBook AI Research  
@@ -195,5 +206,10 @@ RNN_AEC: https://github.com/shichaog/RNNAec 葛世超
 paper title: MetricNet: Towards Improved Modeling For Non-Intrusive Speech Quality Assessment  MetricNet：面向非侵入式语音质量评估的改进建模  
 paper links: https://arxiv.org/pdf/2104.01227.pdf  
 Authors and Publishers: Tencent AI Lab  
+
+### 声源定位
+paper title: BeamLearning: an end-to-end Deep Learning approach for the angular localization of sound sources using raw multichannel acoustic pressure data  
+标题：波束学习：基于多声道原始声压数据的端到端深度学习声源角度定位方法  
+paper link: https://arxiv.org/pdf/2104.13347.pdf  
 
 
