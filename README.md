@@ -135,8 +135,8 @@ pape rtitle: PHASEN: A Phase-and-Harmonics-Aware Speech Enhancement Network
 Authors and Publishers: 　Microsoft  
 remark: Unofficial PyTorch implementation  
 
-FullSubnet: https://github.com/haoxiangsnr/FullSubNet
-pape rtitle: FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement
+FullSubnet: https://github.com/haoxiangsnr/FullSubNet  
+pape rtitle: FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement  
 Authors and Publishers: 　HaoXiang ICASSP2021  
 remark: Official PyTorch implementation  
 
