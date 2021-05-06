@@ -208,6 +208,13 @@ paper links: https://arxiv.org/pdf/2104.01227.pdf
 Authors and Publishers: Tencent AI Lab  
 
 ### 声源定位
+
+### 2021-5-6
+paper title: Improved feature extraction for CRNN-based multiple sound source localization  
+标题：基于CRNN的改进特征提取多声源定位  
+paper link:https://arxiv.org/pdf/2105.01897.pdf  
+Authors and Publishers: EUSIPCO 2021  
+
 paper title: BeamLearning: an end-to-end Deep Learning approach for the angular localization of sound sources using raw multichannel acoustic pressure data  
 标题：波束学习：基于多声道原始声压数据的端到端深度学习声源角度定位方法  
 paper link: https://arxiv.org/pdf/2104.13347.pdf  
