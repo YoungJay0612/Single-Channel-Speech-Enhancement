@@ -10,6 +10,18 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2021-5-8
+paper title: Speech Enhancement using Separable Polling Attention and Global Layer Normalization followed with PReLU  
+标题：基于PReLU的可分离轮询注意力和全局层归一化语音增强  
+paper link: https://arxiv.org/pdf/2105.02509.pdf  
+Authors and Publishers:   Tecent & 2Beijing Forestry University   
+
+paper title: DBNet: A Dual-branch Network Architecture Processing on Spectrum and Waveform for Single-channel Speech Enhancement  
+标题：DBNet：一种单通道语音增强频谱和波形处理的双分支网络结构  
+paper link: https://arxiv.org/pdf/2105.02436.pdf  
+Authors and Publishers:   Inner Mongolia University   
+
+
 ### 2021-4-29
 paper title: DPT-FSNet:Dual-path Transformer Based Full-band and Sub-band Fusion Network for Speech Enhancement  
 标题：DPT-FSNET：基于双路Transformer的全带和子带语音增强融合网络  
