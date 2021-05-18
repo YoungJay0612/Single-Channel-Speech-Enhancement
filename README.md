@@ -221,6 +221,14 @@ Authors and Publishers: Tencent AI Lab
 
 ### 声源定位
 
+### 2021-5-14
+paper title:  Multi-target DoA Estimation with an Audio-visual Fusion Mechanism  
+标题：基于视听融合机制的多目标波达方向估计  
+作者：Xinyuan Qian,Maulik Madhavi,Zexu Pan,Jiadong Wang,Haizhou Li  
+机构：Department of Electrical and Computer Engineering, National University of Singapore, Singapore  
+备注：ICASSP 2021 accepted  
+paper links: https://arxiv.org/pdf/2105.06107.pdf  
+
 ### 2021-5-6
 paper title: Improved feature extraction for CRNN-based multiple sound source localization  
 标题：基于CRNN的改进特征提取多声源定位  
@@ -231,4 +239,11 @@ paper title: BeamLearning: an end-to-end Deep Learning approach for the angular 
 标题：波束学习：基于多声道原始声压数据的端到端深度学习声源角度定位方法  
 paper link: https://arxiv.org/pdf/2104.13347.pdf  
 
+### 波束形成
 
+### 2021-5-14
+paper title: Attention-based Neural Beamforming Layers for Multi-channel Speech Recognition  
+标题：基于注意力的神经波束形成层在多通道语音识别中的应用  
+作者：Bhargav Pulugundla,Yang Gao,Brian King,Gokce Keskin,Harish Mallidi,Minhua Wu,Jasha Droppo,Roland Maas  
+机构：Amazon Inc., USA  
+paper link: https://arxiv.org/pdf/2105.05920.pdf  
