@@ -10,6 +10,14 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2021-5-18
+paper title: Dual-Stage Low-Complexity Reconfigurable Speech Enhancement  
+标题：两级低复杂度可重构语音增强算法  
+作者：Jun Yang,Nico Brailovsky  
+机构：Facebook Reality Labs, Hacker Way, Menlo Park, CA , USA  
+备注：5 pages  
+paper link: https://arxiv.org/ftp/arxiv/papers/2105/2105.07632.pdf  
+
 ### 2021-5-8
 paper title: Speech Enhancement using Separable Polling Attention and Global Layer Normalization followed with PReLU  
 标题：基于PReLU的可分离轮询注意力和全局层归一化语音增强  
