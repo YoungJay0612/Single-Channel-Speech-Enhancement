@@ -10,6 +10,15 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2021-5-26
+paper title: RNNoise-Ex: Hybrid Speech Enhancement System based on RNN and Spectral Features  
+标题：RNNoise-Ex：基于RNN和频谱特征的混合语音增强系统  
+作者：Constantine C. Doumanidis,Christina Anagnostou,Evangelia-Sofia Arvaniti,Anthi Papadopoulou  
+机构：School of Electrical and Computer Engineering, Aristotle University of Thessaloniki, Thessaloniki, Greece, Note: Author name order was decided arbitrarily.  
+备注：6 pages, 5 figures, presented at ECESCON 12, for code see this https URL  
+code links: https://github.com/CedArctic/rnnoise-ex  
+
+
 ### 2021-5-18
 paper title: Dual-Stage Low-Complexity Reconfigurable Speech Enhancement  
 标题：两级低复杂度可重构语音增强算法  
