@@ -12,9 +12,9 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 #2021-5-27
 Wav2Vec预训练模型调用：
-1：参考PFP loss,https://github.com/YoungJay0612/PhoneFortifiedPerceptualLoss_SE  
-2：Wav2Vec2.0: https://github.com/YoungJay0612/speech-representations  
-3: FB Wav20Vec: https://github.com/pytorch/fairseq/tree/master/examples/wav2vec  
+1：参考PFP loss以及Wav2Vec调用：https://github.com/YoungJay0612/PhoneFortifiedPerceptualLoss_SE  
+2：Wav2Vec2.0预训练模型调用: https://github.com/YoungJay0612/speech-representations  
+3: FB Wav20Vec模型: https://github.com/pytorch/fairseq/tree/master/examples/wav2vec  
 
 
 ### 2021-5-27
