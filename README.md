@@ -10,6 +10,14 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2021-5-27
+paper title: Training Speech Enhancement Systems with Noisy Speech Datasets  
+标题：利用含噪语音数据集训练语音增强系统  
+作者：Koichi Saito,Stefan Uhlich,Giorgio Fabbro,Yuki Mitsufuji  
+机构： The University of Tokyo, Japan, Sony Corporation, R&D Center, GermanyJapan  
+备注：5 pages, 3 figures, submitted to WASPAA2021  
+paper link: https://arxiv.org/pdf/2105.12315.pdf   
+
 ### 2021-5-26
 paper title: RNNoise-Ex: Hybrid Speech Enhancement System based on RNN and Spectral Features  
 标题：RNNoise-Ex：基于RNN和频谱特征的混合语音增强系统  
