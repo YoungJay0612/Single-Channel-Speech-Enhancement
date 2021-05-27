@@ -10,6 +10,13 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+#2021-5-27
+Wav2Vec预训练模型调用：
+1：参考PFP loss,https://github.com/YoungJay0612/PhoneFortifiedPerceptualLoss_SE  
+2：Wav2Vec2.0: https://github.com/YoungJay0612/speech-representations  
+3: FB Wav20Vec: https://github.com/pytorch/fairseq/tree/master/examples/wav2vec  
+
+
 ### 2021-5-27
 paper title: Training Speech Enhancement Systems with Noisy Speech Datasets  
 标题：利用含噪语音数据集训练语音增强系统  
