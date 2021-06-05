@@ -4,8 +4,8 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 ## Speech Deep Learning
 
 ### 2021-6-5
-Wav2Vec2.0:
-model links: https://github.com/pytorch/fairseq/tree/master/examples/wav2vec 
+Wav2Vec2.0:  
+model links: https://github.com/pytorch/fairseq/tree/master/examples/wav2vec  
 using links: https://github.com/awslabs/speech-representations  
 paper links: https://arxiv.org/abs/2006.11477  
 
