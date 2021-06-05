@@ -17,6 +17,20 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2021-5-28 - 2021-6-5
+paper title: Noise Classification Aided Attention-Based Neural Network for Monaural Speech Enhancement  
+标题：噪声分类辅助的基于注意力的神经网络单声道语音增强  
+作者：Lu Ma,Song Yang,Yaguang Gong,Zhongqin Wu  
+机构*：TAL Education Group, Beijing, China  
+paper link: https://arxiv.org/pdf/2105.14719v1.pdf  
+
+paper title:  Self-attending RNN for Speech Enhancement to Improve Cross-corpus Generalization  
+标题：提高跨语料库泛化能力的自参加RNN语音增强算法  
+作者：Ashutosh Pandey,DeLiang Wang  
+机构*： Wang is with the Department of Computer Science and Engineeringand the Center for Cognitive and Brain Sciences  
+备注：submitted to IEEEACM Transactions on Audio, Speech and Language Processing  
+paper link: https://arxiv.org/pdf/2105.12831v1.pdf  
+
 ### 2021-5-27  
 Wav2Vec预训练模型调用：  
 1：参考PFP loss以及Wav2Vec调用：https://github.com/YoungJay0612/PhoneFortifiedPerceptualLoss_SE  
@@ -249,6 +263,23 @@ remark: official PyTorch implementation
 Spleeter: https://github.com/deezer/spleeter  
 
 ## AEC
+
+### 2021-6-1
+paper title: EchoFilter: End-to-End Neural Network for Acoustic Echo Cancellation  
+标题：EchoFilter：端到端的声学回波消除神经网络  
+作者：Lu Ma,Song Yang,Yaguang Gong,Xintian Wang,Zhongqin Wu  
+机构*：TAL Education Group, Beijing, China  
+备注：5 pages, 3 figures, 6 tabels  
+paper links: https://arxiv.org/pdf/2105.14666v1.pdf  
+
+### 2021-6-2
+paper ttle: Multi-Scale Attention Neural Network for Acoustic Echo Cancellation  
+标题：多尺度注意力神经网络在声回波消除中的应用  
+作者：Lu Ma,Song Yang,Yaguang Gong,Zhongqin Wu  
+机构*：TAL Education Group, Beijing, China  
+paper link: https://arxiv.org/pdf/2106.00010v1.pdf  
+
+
 DTLN: https://github.com/YoungJay0612/DTLN-aec-TensorFlow  
 RNN_AEC: https://github.com/shichaog/RNNAec 葛世超
 
