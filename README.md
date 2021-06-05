@@ -3,6 +3,13 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 
 ## Speech Deep Learning
 
+### 2021-6-5
+Wav2Vec2.0:
+model links: https://github.com/pytorch/fairseq/tree/master/examples/wav2vec 
+using links: https://github.com/awslabs/speech-representations  
+paper links: https://arxiv.org/abs/2006.11477  
+
+
 ### 2021-4-23
 paper title: Interpreting intermediate convolutional layers of CNNs trained on raw speech 解释在原始语音上训练的CNN的中间卷积层  
 paper link: https://arxiv.org/pdf/2104.09489.pdf  
