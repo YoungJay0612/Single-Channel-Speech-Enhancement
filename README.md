@@ -17,6 +17,14 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2021-6-11
+paper title: MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement  
+paper link: https://arxiv.org/pdf/1905.04874v1.pdf  
+paper code: https://github.com/JasonSWFu/MetricGAN
+MetricGAN+: https://github.com/speechbrain/speechbrain/tree/develop/recipes/Voicebank/enhance/MetricGAN
+
+
+
 ### 2021-5-28 - 2021-6-5
 paper title: Noise Classification Aided Attention-Based Neural Network for Monaural Speech Enhancement  
 标题：噪声分类辅助的基于注意力的神经网络单声道语音增强  
