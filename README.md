@@ -311,6 +311,14 @@ paper link: https://arxiv.org/pdf/2104.13347.pdf
 
 ### 波束形成
 
+### 2021-6-11
+paper title: Joint Multi-Channel Dereverberation and Noise Reduction Using a Unified Convolutional Beamformer With Sparse Priors  
+标题：基于稀疏先验统一卷积波束形成器的多通道联合去混响降噪  
+作者：Henri Gode,Marvin Tammen,Simon Doclo  
+机构：Department of Medical Physics and Acoustics and Cluster of Excellence Hearing,all, University of Oldenburg, Germany  
+备注：ITG Conference on Speech Communication  
+paper link: https://arxiv.org/pdf/2106.01902.pdf
+
 ### 2021-5-14
 paper title: Attention-based Neural Beamforming Layers for Multi-channel Speech Recognition  
 标题：基于注意力的神经波束形成层在多通道语音识别中的应用  
