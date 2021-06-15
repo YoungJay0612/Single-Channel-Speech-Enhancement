@@ -17,6 +17,14 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+###2021-6-15
+paper title: F-T-LSTM based Complex Network for Joint Acoustic Echo Cancellation and Speech Enhancement  
+标题：基于F-T-LSTM的声学回波抵消和语音增强联合复杂网络  
+作者：Shimin Zhang,Yuxiang Kong,Shubo Lv,Yanxin Hu,Lei Xie  
+机构：Northwestern Polytechnical University, Xi’an, China  
+备注：submitted to Interspeech 2021  
+链接：https://arxiv.org/abs/2106.07577  
+
 ### 2021-6-11
 paper title: MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement  
 paper link: https://arxiv.org/pdf/1905.04874v1.pdf  
