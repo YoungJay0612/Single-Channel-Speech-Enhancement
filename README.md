@@ -17,6 +17,20 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2021-6-17
+paper title: A Flow-Based Neural Network for Time Domain Speech Enhancement  
+标题：一种基于流的时域语音增强神经网络  
+作者：Martin Strauss,Bernd Edler  
+机构：International Audio Laboratories Erlangen, Am Wolfsmantel , Erlangen, Germany  
+备注：Accepted to ICASSP 2021  
+链接：https://arxiv.org/abs/2106.09008  
+
+paper title: DCCRN+: Channel-wise Subband DCCRN with SNR Estimation for Speech Enhancement  
+标题：DCCRN+：用于语音增强的信噪比估计信道子带DCCRN  
+作者：Shubo Lv,Yanxin Hu,Shimin Zhang,Lei Xie  
+机构：Northwestern Polytechnical University, Xi'an, China  
+链接：https://arxiv.org/abs/2106.08672  
+
 ###2021-6-15
 paper title: F-T-LSTM based Complex Network for Joint Acoustic Echo Cancellation and Speech Enhancement  
 标题：基于F-T-LSTM的声学回波抵消和语音增强联合复杂网络  
