@@ -292,6 +292,20 @@ remark: official PyTorch implementation
 Spleeter: https://github.com/deezer/spleeter  
 
 ## AEC
+### 2021-6-29
+paper title: Deep Residual Echo Suppression with A Tunable Tradeoff Between Signal Distortion and Echo Suppression  
+标题：在信号失真和回波抑制之间进行可调折衷的深层残余回波抑制  
+作者：Amir Ivry,Israel Cohen,Baruch Berdugo  ICASSP 2021
+机构：Technion – Israel Institute of Technology, Technion City, Haifa , Israel  
+paper links: https://arxiv.org/pdf/2106.13531.pdf  
+
+paper title: Nonlinear Acoustic Echo Cancellation with Deep Learning  
+标题：基于深度学习的非线性声学回波抵消  
+作者：Amir Ivry,Israel Cohen,Baruch Berdugo  
+机构：Technion – Israel Institute of Technology, Technion City, Haifa , Israel  
+备注：Accepted to Interspeech 2021  
+链接：https://arxiv.org/abs/2106.13754  
+
 
 ### 2021-6-1
 paper title: EchoFilter: End-to-End Neural Network for Acoustic Echo Cancellation  
