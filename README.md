@@ -295,7 +295,7 @@ Spleeter: https://github.com/deezer/spleeter
 ### 2021-6-29
 paper title: Deep Residual Echo Suppression with A Tunable Tradeoff Between Signal Distortion and Echo Suppression  
 标题：在信号失真和回波抑制之间进行可调折衷的深层残余回波抑制  
-作者：Amir Ivry,Israel Cohen,Baruch Berdugo  ICASSP 2021
+作者：Amir Ivry,Israel Cohen,Baruch Berdugo  ICASSP 2021  
 机构：Technion – Israel Institute of Technology, Technion City, Haifa , Israel  
 paper links: https://arxiv.org/pdf/2106.13531.pdf  
 
