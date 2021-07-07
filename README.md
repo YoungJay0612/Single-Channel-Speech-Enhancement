@@ -251,6 +251,14 @@ Facebook：【基于图神经网络的多通道语音增强】Multi-Channel Spee
 
 ## Speech Dereverberation
 
+REVERB challenge: http://reverb2014.dereverberation.com/  
+
+### 2021-7-7
+paper title:Skip Convolutional Neural Network for Speech Dereverberation using Optimally Smoothed Spectral Mapping  
+paper links: https://arxiv.org/pdf/2007.09131.pdf  
+paper website: https://vkothapally.github.io/SkipConv/  
+github repository: https://github.com/zehuachenImperial/SkipConvNet  
+
 pape rtitle: TeCANet Temporal-Contextual Attention Network for Environment-Aware Speech Dereverberation  
 TeCANet：支持环境感知语音去混响的时间-上下文注意网络  
 Authors and Publishers: Peking University, Shenzhen Tencent AI Lab  
