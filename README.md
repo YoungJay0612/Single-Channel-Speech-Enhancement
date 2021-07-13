@@ -17,6 +17,15 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2021-7-13
+paper title: DPCRN: Dual-Path Convolution Recurrent Network for Single Channel Speech Enhancement  
+标题：DPCRN：用于单通道语音增强的双径卷积递归网络  
+作者：Xiaohuai Le,Hongsheng Chen,Kai Chen,Jing Lu  
+机构：Key Laboratory of Modern Acoustics, Nanjing University, Nanjing , China, NJU-Horizon Intelligent Audio Lab, Horizon Robotics, Beijing , China, Nanjing Institute of Advanced Artificial Intelligence, Nanjing , China  
+备注：5 pages, 1 figure, accepted by Interspeech 2021  
+链接：https://arxiv.org/abs/2107.05429  
+
+
 ### 2021-6-17
 paper title: A Flow-Based Neural Network for Time Domain Speech Enhancement  
 标题：一种基于流的时域语音增强神经网络  
