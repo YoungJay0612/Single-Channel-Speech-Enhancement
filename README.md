@@ -369,7 +369,15 @@ paper title: BeamLearning: an end-to-end Deep Learning approach for the angular 
 标题：波束学习：基于多声道原始声压数据的端到端深度学习声源角度定位方法  
 paper link: https://arxiv.org/pdf/2104.13347.pdf  
 
-### 波束形成
+### MultiChannel Speech Enhancement
+
+### 2021-7-26
+paper title: Multi-channel Speech Enhancement with 2-D Convolutional Time-frequency Domain Features and a Pre-trained Acoustic Model  
+标题：基于二维卷积时频域特征和预训练声学模型的多通道语音增强  
+作者：Quandong Wang,Junnan Wu,Zhao Yan,Sichong Qian,Liyong Guo,Lichun Fan,Weiji Zhuang,Peng Gao,Yujun Wang  
+机构：Wang, Xiaomi Corporation, Beijing, China  
+备注：7 pages, 3 figures, submitted to APSIPA 2021  
+链接：https://arxiv.org/abs/2107.11222  
 
 ### 2021-6-11
 paper title: Joint Multi-Channel Dereverberation and Noise Reduction Using a Unified Convolutional Beamformer With Sparse Priors  
