@@ -17,6 +17,14 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2021-7-27
+paper title: Inplace Gated Convolutional Recurrent Neural Network For Dual-channel Speech Enhancement  
+标题：用于双通道语音增强的就地门控卷积递归神经网络  
+作者：Jinjiang Liu,Xueliang Zhang  
+机构：College of Computer Science, Inner Mongolia University, China  
+备注：Accepted by INTERSPEECH2021  
+链接：https://arxiv.org/abs/2107.11968  
+
 ### 2021-7-13
 paper title: DPCRN: Dual-Path Convolution Recurrent Network for Single Channel Speech Enhancement  
 标题：DPCRN：用于单通道语音增强的双径卷积递归网络  
