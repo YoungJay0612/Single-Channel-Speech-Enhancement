@@ -317,6 +317,13 @@ remark: official PyTorch implementation
 Spleeter: https://github.com/deezer/spleeter  
 
 ## AEC
+
+### 2021-7-28
+paper title:EchoFilter: End-to-End Neural Network for Acoustic Echo Cancellation  
+机构：学而思  
+paper links:https://arxiv.org/abs/2105.14666  
+
+
 ### 2021-6-29
 paper title: Deep Residual Echo Suppression with A Tunable Tradeoff Between Signal Distortion and Echo Suppression  
 标题：在信号失真和回波抑制之间进行可调折衷的深层残余回波抑制  
