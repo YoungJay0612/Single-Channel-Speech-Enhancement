@@ -386,6 +386,14 @@ paper link: https://arxiv.org/pdf/2104.13347.pdf
 
 ### MultiChannel Speech Enhancement
 
+### 2021-8-9
+标题：Complex-valued Spatial Autoencoders for Multichannel Speech Enhancement  
+标题：用于多通道语音增强的复值空间自动编码器  
+链接：https://arxiv.org/abs/2108.03130  
+github: https://github.com/ModarHalimeh/COSPA  
+作者：Mhd Modar Halimeh,Walter Kellermann  
+机构： University of Erlangen-Nuremberg  
+
 ### 2021-7-26
 paper title: Multi-channel Speech Enhancement with 2-D Convolutional Time-frequency Domain Features and a Pre-trained Acoustic Model  
 标题：基于二维卷积时频域特征和预训练声学模型的多通道语音增强  
