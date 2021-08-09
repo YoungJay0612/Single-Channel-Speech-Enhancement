@@ -317,6 +317,13 @@ remark: official PyTorch implementation
 Spleeter: https://github.com/deezer/spleeter  
 
 ## AEC
+### 2021-8-9
+paper title:Deep Residual Echo Suppression and Noise Reduction: A Multi-Input FCRN Approach in a Hybrid Speech Enhancement System  
+标题：深层残留回波抑制与降噪：一种混合语音增强系统中的多输入FcRN方法  
+链接：https://arxiv.org/abs/2108.03051  
+作者：Jan Franzen,Tim Fingscheidt  
+机构：Institute for Communications Technology, Technische Universit¨at Braunschweig, Schleinitzstr. , Braunschweig, Germany  
+
 
 ### 2021-7-28
 paper title:EchoFilter: End-to-End Neural Network for Acoustic Echo Cancellation  
