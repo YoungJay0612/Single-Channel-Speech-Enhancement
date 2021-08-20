@@ -3,6 +3,12 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 
 ## Speech Deep Learning
 
+### 2021-8-20
+paper:Continuous Speech Separation with Conformers  ICASSP2021
+github：https://github.com/Sanyuan-Chen/CSS_with_Conformer  
+paper link: https://arxiv.org/abs/2008.05773  
+
+
 ### 2021-6-5
 Wav2Vec2.0:  
 model links: https://github.com/pytorch/fairseq/tree/master/examples/wav2vec  
@@ -392,6 +398,11 @@ paper title: BeamLearning: an end-to-end Deep Learning approach for the angular 
 paper link: https://arxiv.org/pdf/2104.13347.pdf  
 
 ### MultiChannel Speech Enhancement
+
+### 2021-8-20
+标题： Multi-channel Continuous Speech Separation with Early Exit Transformer  
+paper link: https://arxiv.org/pdf/2010.12180.pdf  
+github: https://github.com/Sanyuan-Chen/CSS_with_EETransformer  
 
 ### 2021-8-9
 标题：Complex-valued Spatial Autoencoders for Multichannel Speech Enhancement  
