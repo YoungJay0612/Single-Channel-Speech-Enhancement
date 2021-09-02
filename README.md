@@ -23,6 +23,13 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+paper title: Embedding and Beamforming: All-neural Causal Beamformer for Multichannel Speech Enhancement  
+标题：嵌入和波束形成：用于多通道语音增强的全神经因果波束形成器  
+链接：https://arxiv.org/abs/2109.00265  
+作者：Andong Li,Wenzhe Liu,Chengshi Zheng,Xiaodong Li  
+机构：⋆ Key Laboratory of Noise and Vibration Research, Institute of Acoustics, Chinese Academy, † University of Chinese Academy of Sciences, Beijing, China  
+备注：Submitted to ICASSP 2022, first version  
+
 ### 2021-7-27
 paper title: Inplace Gated Convolutional Recurrent Neural Network For Dual-channel Speech Enhancement  
 标题：用于双通道语音增强的就地门控卷积递归神经网络  
