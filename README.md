@@ -386,6 +386,13 @@ Authors and Publishers: Tencent AI Lab
 
 ### 声源定位
 
+### 2021-9-9
+paper title:  A Review of Sound Source Localization with Deep Learning Methods  
+标题：基于深度学习方法的声源定位研究综述  
+链接：https://arxiv.org/abs/2109.03465  
+作者：Pierre-Amaury Grumiaux,Srđan Kitić,Laurent Girin,Alexandre Guérin  
+备注：Submitted to IEEE Transactions on Audio, Speech, and Language Processing  
+
 ### 2021-5-14
 paper title:  Multi-target DoA Estimation with an Audio-visual Fusion Mechanism  
 标题：基于视听融合机制的多目标波达方向估计  
