@@ -330,6 +330,15 @@ remark: official PyTorch implementation
 Spleeter: https://github.com/deezer/spleeter  
 
 ## AEC
+
+### 2021-9-22
+paper title:Acoustic Echo Cancellation using Residual U-Nets  
+标题：基于剩余U网的声学回波抵消  
+链接：https://arxiv.org/abs/2109.09686  
+作者：J. Silva-Rodríguez,M. F. Dolz,M. Ferrer,A. Castelló,V. Naranjo,G. Piñero  
+机构： Universitat Politecnica de Valencia  
+备注：6 pages, 2 figures, submitted to the 2021 IEEE International Conference on Acoustics, Speech and Signal Processing on October 2020  
+
 ### 2021-8-9
 paper title:Deep Residual Echo Suppression and Noise Reduction: A Multi-Input FCRN Approach in a Hybrid Speech Enhancement System  
 标题：深层残留回波抑制与降噪：一种混合语音增强系统中的多输入FcRN方法  
