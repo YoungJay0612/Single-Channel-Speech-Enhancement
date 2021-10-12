@@ -23,6 +23,34 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2021-10-11
+
+paper title: Leveraging Low-Distortion Target Estimates for Improved Speech Enhancement  
+标题：利用低失真目标估计来改进语音增强  
+链接：https://arxiv.org/abs/2110.00570  
+作者：Zhong-Qiu Wang,Gordon Wichern,Jonathan Le Roux  
+机构： He is now withthe Language Technologies Institute, Carnegie Mellon University  
+备注：in submission  
+
+paper title: End-to-End Complex-Valued Multidilated Convolutional Neural Network for Joint Acoustic Echo Cancellation and Noise Suppression  
+标题：端到端复值倍增卷积神经网络用于声学回波抵消和噪声抑制  
+链接：https://arxiv.org/abs/2110.00745  
+作者：Karn N. Watcharasupat,Thi Ngoc Tho Nguyen,Woon-Seng Gan,Shengkui Zhao,Bin Ma  
+机构：⋆School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, †Speech Lab, Alibaba Group, Singapore  
+备注：Submitted to the 2022 International Conference on Acoustics, Speech, & Signal Processing (ICASSP)  
+
+paper title: Lightweight Speech Enhancement in Unseen Noisy and Reverberant Conditions using KISS-GEV Beamforming  
+标题：KISS-GEV波束形成在不可见噪声和混响条件下的轻量级语音增强  
+链接：https://arxiv.org/abs/2110.03103  
+作者：Thomas Bernard,Cem Subakan,François Grondin  
+机构：Universit´e de Sherbrooke, Sherbrooke (Qu´ebec), Canada  
+
+paper title: On audio enhancement via online non-negative matrix factorization  
+标题：基于在线非负矩阵分解的音频增强研究  
+链接：https://arxiv.org/abs/2110.03114  
+作者：Andrew Sack,Wenzhao Jiang,Michael Perlmutter,Palina Salanevich,Deanna Needell  
+code: https://github.com/Jerry-jwz/Audio-Enhancement-via-ONMF  
+
 paper title: Embedding and Beamforming: All-neural Causal Beamformer for Multichannel Speech Enhancement  
 标题：嵌入和波束形成：用于多通道语音增强的全神经因果波束形成器  
 链接：https://arxiv.org/abs/2109.00265  
@@ -281,6 +309,14 @@ Facebook：【基于图神经网络的多通道语音增强】Multi-Channel Spee
 
 ## Speech Dereverberation
 
+### 2021-10-12
+paper title:Late reverberation suppression using U-nets  
+标题：基于U网的延迟混响抑制  
+链接：https://arxiv.org/abs/2110.02144  
+作者：Diego León,Felipe Tobar  
+机构：⋆Department of Electrical Engineering, Universidad de Chile, †Initiative for Data & Artificial Intelligence, Universidad de Chile, ‡Center for Mathematical Modeling, Universidad de Chile  
+
+
 REVERB challenge: http://reverb2014.dereverberation.com/  
 
 ### 2021-7-7
@@ -299,6 +335,13 @@ NAra_WPE: https://github.com/fgnt/nara_wpe
 DNN_WPE: https://github.com/nttcslab-sp/dnn_wpe  
 
 ## Speech Separation
+
+### 2021-10-11
+paper title: TRUNet: Transformer-Recurrent-U Network for Multi-channel Reverberant Sound Source Separation  
+TruNet：用于多声道混响声源分离的Transformer-递归-U网络  
+链接：https://arxiv.org/abs/2110.04047  
+作者：Ali Aroudi,Stefan Uhlich,Marc Ferras Font  
+机构：Sony Europe B.V., Stuttgart, Germany  
 
 ### 2021-4-29
 paper title: Complex Neural Spatial Filter: Enhancing Multi-channel Target Speech Separation in Complex Domain  
@@ -330,6 +373,15 @@ remark: official PyTorch implementation
 Spleeter: https://github.com/deezer/spleeter  
 
 ## AEC
+
+### 2021-10-11
+paper title:Auto-DSP: Learning to Optimize Acoustic Echo Cancellers  
+标题：Auto-DSP：学习优化声学回波消除器  
+链接：https://arxiv.org/abs/2110.04284  
+作者：Jonah Casebeer,Nicholas J. Bryan,Paris Smaragdis  
+机构：♯ University of Illinois at Urbana-Champaign, ♭ Adobe Research  
+备注：Accepted to the 2021 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA).   
+Source code and audio examples: https://jmcasebeer.github.io/projects/auto-dsp/  https://github.com/jmcasebeer/autodsp  
 
 ### 2021-9-22
 paper title:Acoustic Echo Cancellation using Residual U-Nets  
