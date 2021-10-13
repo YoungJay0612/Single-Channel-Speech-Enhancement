@@ -23,6 +23,25 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2021-10-13
+paper title: MetricGAN-U: Unsupervised speech enhancement/ dereverberation based only on noisy/ reverberated speech  
+MetricGAN-U：仅基于噪声/混响语音的无监督语音增强/去混响  
+链接：https://arxiv.org/abs/2110.05866  
+作者：Szu-Wei Fu,Cheng Yu,Kuo-Hsuan Hung,Mirco Ravanelli,Yu Tsao  
+机构： Research Center for Information Technology Innovation, Academia Sinica, Taipei, Taiwan, Mila-Quebec AI Institute, Montreal, Canada  
+
+paper title: Foster Strengths and Circumvent Weaknesses: a Speech Enhancement Framework with Two-branch Collaborative Learning  
+扬长避短：两分支协作学习的语音增强框架  
+链接：https://arxiv.org/abs/2110.05713  
+作者：Wenxin Tai,Jiajia Li,Yixiang Wang,Tian Lan,Qiao Liu  
+机构：University of Electronic Science and Technology of China  
+
+DeepFilterNet: A Low Complexity Speech Enhancement Framework for Full-Band Audio based on Deep Filtering  
+DeepFilterNet：一种基于深度滤波的低复杂度全带语音增强框架  
+链接：https://arxiv.org/abs/2110.05588  
+作者：Hendrik Schröter,Alberto N. Escalante-B.,Tobias Rosenkranz,Andreas Maier  
+机构：Friedrich-Alexander-Universit¨at Erlangen-N¨urnberg, Pattern Recognition Lab, WS Audiology, Research and Development, Erlangen, Germany  
+
 ### 2021-10-11
 
 paper title: Leveraging Low-Distortion Target Estimates for Improved Speech Enhancement  
@@ -335,6 +354,22 @@ NAra_WPE: https://github.com/fgnt/nara_wpe
 DNN_WPE: https://github.com/nttcslab-sp/dnn_wpe  
 
 ## Speech Separation
+
+### 2021-10-13
+paper title: Multi-channel Narrow-Band Deep Speech Separation with Full-band Permutation Invariant Training  
+全带置换不变训练的多通道窄带深度语音分离  
+链接：https://arxiv.org/abs/2110.05966  
+作者：Changsheng Quan,Xiaofei Li  
+机构： Zhejiang University, Hangzhou, China, Westlake University & Westlake Institute for Advanced Study, Hangzhou, China  
+备注：submitted to ICASSP 2022  
+code link: https://github.com/Audio-WestlakeU/NBSS  
+
+paper title: VarArray: Array-Geometry-Agnostic Continuous Speech Separation  
+paper title: VarArray：阵列几何不可知的连续语音分离  
+链接：https://arxiv.org/abs/2110.05745  
+作者：Takuya Yoshioka,Xiaofei Wang,Dongmei Wang,Min Tang,Zirun Zhu,Zhuo Chen,Naoyuki Kanda  
+机构：Microsoft, One Microsoft Way, Redmond, WA, USA  
+备注：5 pages, 1 figure, 3 tables, submitted to ICASSP 2022  
 
 ### 2021-10-11
 paper title: TRUNet: Transformer-Recurrent-U Network for Multi-channel Reverberant Sound Source Separation  
