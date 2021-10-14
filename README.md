@@ -23,6 +23,14 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2021-10-14
+paper title: Dual-branch Attention-In-Attention Transformer for single-channel speech enhancement  
+paper title: 用于单通道语音增强的双分支注意-注意转换器  
+链接：https://arxiv.org/abs/2110.06467  
+作者：Guochen Yu,Andong Li,Yutian Wang,Yinuo Guo,Hui Wang,Chengshi Zheng  
+机构：⋆ State Key Laboratory of Media Convergence and Communication, Communication University, of China, Beijing, China, † Institute of Acoustics, Chinese Academy of Sciences, Beijing, China, ∗ Bytedance, Beijing, China  
+备注：Submitted to ICASSP 2022  
+
 ### 2021-10-13
 paper title: MetricGAN-U: Unsupervised speech enhancement/ dereverberation based only on noisy/ reverberated speech  
 MetricGAN-U：仅基于噪声/混响语音的无监督语音增强/去混响  
@@ -354,6 +362,14 @@ NAra_WPE: https://github.com/fgnt/nara_wpe
 DNN_WPE: https://github.com/nttcslab-sp/dnn_wpe  
 
 ## Speech Separation
+
+### 2021-10-14
+paper title: All-neural beamformer for continuous speech separation  
+paper title: 用于连续语音分离的全神经波束形成器  
+链接：https://arxiv.org/abs/2110.06428  
+作者：Zhuohuang Zhang,Takuya Yoshioka,Naoyuki Kanda,Zhuo Chen,Xiaofei Wang,Dongmei Wang,Sefik Emre Eskimez  
+机构：Microsoft, Redmond, WA, USA, Indiana University, Bloomington, IN, USA  
+备注：5 pages, 3 figures, 2 tables  
 
 ### 2021-10-13
 paper title: Multi-channel Narrow-Band Deep Speech Separation with Full-band Permutation Invariant Training  
