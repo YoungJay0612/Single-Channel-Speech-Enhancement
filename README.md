@@ -3,6 +3,14 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 
 ## Speech Deep Learning
 
+### 2021-10-19
+paper:NN3A: Neural Network supported Acoustic Echo Cancellation, Noise Suppression and Automatic Gain Control for Real-Time Communications  
+标题：NN3A：神经网络支持的声学回波抵消、噪声抑制和自动增益控制的实时通信  
+链接：https://arxiv.org/abs/2110.08437  
+作者：Ziteng Wang,Yueyue Na,Biao Tian,Qiang Fu  
+机构：Alibaba Group, China  
+备注：submitted to ICASSP2022  
+
 ### 2021-8-20
 paper:Continuous Speech Separation with Conformers  ICASSP2021  
 github：https://github.com/Sanyuan-Chen/CSS_with_Conformer  
@@ -335,6 +343,14 @@ Seoul National Unicersity: Real-time Denoising and Dereverberation with Tiny Rec
 Facebook：【基于图神经网络的多通道语音增强】Multi-Channel Speech Enhancement Using Graph Neural Networks
 
 ## Speech Dereverberation
+
+### 2021-10-19
+paper title：Controllable Multichannel Speech Dereverberation based on Deep Neural Networks  
+标题：基于深度神经网络的可控多通道语音去混响  
+链接：https://arxiv.org/abs/2110.08439  
+作者：Ziteng Wang,Yueyue Na,Biao Tian,Qiang Fu  
+机构：Alibaba Group, China  
+备注：submitted to ICASSP2022  
 
 ### 2021-10-12
 paper title:Late reverberation suppression using U-nets  
