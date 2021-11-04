@@ -508,6 +508,11 @@ RNN_AEC: https://github.com/shichaog/RNNAec 葛世超
 
 ### Speech Quality Assessment
 
+paper title: Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features  
+标题：基于深度学习的跨域特征非侵入式多目标语音评估模型  
+链接：https://arxiv.org/abs/2111.02363  
+作者：Ryandhimas E. Zezario,Szu-Wei Fu,Fei Chen,Chiou-Shann Fuh,Hsin-Min Wang,Yu Tsao  
+
 paper title: MetricNet: Towards Improved Modeling For Non-Intrusive Speech Quality Assessment  MetricNet：面向非侵入式语音质量评估的改进建模  
 paper links: https://arxiv.org/pdf/2104.01227.pdf  
 Authors and Publishers: Tencent AI Lab  
