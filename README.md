@@ -3,6 +3,13 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 
 ## Speech Deep Learning
 
+### 2021-12-15
+paper title: Shennong: a Python toolbox for audio speech features extraction  
+标题：神农：一个用于音频语音特征提取的Python工具箱  
+链接：https://arxiv.org/abs/2112.05555  
+作者：Mathieu Bernard,Maxime Poli,Julien Karadayi,Emmanuel Dupoux  
+机构：Dupoux, Received: date Accepted: date  
+
 ### 2021-11-22
 paper title: A Conformer-based ASR Frontend for Joint Acoustic Echo Cancellation, Speech Enhancement and Speech Separation  
 标题：一种基于Conform的声学回波抵消、语音增强和语音分离联合ASR前端  
@@ -38,6 +45,13 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 
 ## Speech Denoise
+
+### 2021-121-5
+paper title:  U-shaped Transformer with Frequency-Band Aware Attention for Speech Enhancement  
+标题：用于语音增强的频带感知U型Transformer  
+链接：https://arxiv.org/abs/2112.06052  
+作者：Yi Li,Yang Sun,Syed Mohsen Naqvi  
+机构： Newcastle University , University of Oxford  
 
 ### 2021-10-14
 paper title: Dual-branch Attention-In-Attention Transformer for single-channel speech enhancement  
