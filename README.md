@@ -46,7 +46,13 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
-### 2021-121-5
+### 2022-1-25
+推荐值：AAAAA
+paper title：A Dual-branch attention-in-attention transformer for single-channel SE  
+code:https://github.com/YoungJay0612/DB-AIAT  
+机构： 中科院 字节跳动  
+
+### 2021-12-15
 paper title:  U-shaped Transformer with Frequency-Band Aware Attention for Speech Enhancement  
 标题：用于语音增强的频带感知U型Transformer  
 链接：https://arxiv.org/abs/2112.06052  
