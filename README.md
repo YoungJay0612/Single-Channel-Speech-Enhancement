@@ -46,6 +46,13 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2022-2-9
+paper title：A two-step backward compatible fullband speech enhancement system  
+标题：一种两步后向兼容的全带语音增强系统  
+作者：Xu Zhang,Lianwu Chen,Xiguang Zheng,Xinlei Ren,Chen Zhang,Liang Guo,Bing Yu  
+机构*：Kuaishou Technology, Beijing, China  
+link:https://arxiv.org/pdf/2201.10809v1.pdf  
+
 ### 2022-1-25
 推荐值：AAAAA
 paper title：A Dual-branch attention-in-attention transformer for single-channel SE  
@@ -407,6 +414,16 @@ DNN_WPE: https://github.com/nttcslab-sp/dnn_wpe
 
 ## Speech Separation
 
+### 2022-2-9
+paper title: SkiM: Skipping Memory LSTM for Low-Latency Real-Time Continuous Speech Separation  
+标题：Skim：跳过内存LSTM实现低延迟实时连续语音分离  
+作者：Chenda Li,Lei Yang,Weiqin Wang,Yanmin Qian  
+机构*：MoE Key Lab of Artificial Intelligence, AI Institute, X-LANCE Lab, Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China, Samsung Research China - Beijing (SRC-B)  
+备注：Accepted by ICASSP 2022  
+link：https://arxiv.org/pdf/2201.10800v1.pdf  
+
+
+
 ### 2021-10-14
 paper title: All-neural beamformer for continuous speech separation  
 paper title: 用于连续语音分离的全神经波束形成器  
@@ -468,6 +485,11 @@ remark: official PyTorch implementation
 Spleeter: https://github.com/deezer/spleeter  
 
 ## AEC
+
+### 2022-2-9
+paper title: A deep complex network with multi-frame filtering for stereophonic acoustic echo cancellation  
+作者：Linjuan Cheng,Chengshi Zheng,Andong Li,Renhua Peng,Xiaodong Li  
+链接：https://arxiv.org/pdf/2202.01630v1.pdf  
 
 ### 2021-10-11
 paper title:Auto-DSP: Learning to Optimize Acoustic Echo Cancellers  
