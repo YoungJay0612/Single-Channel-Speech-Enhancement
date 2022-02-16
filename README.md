@@ -46,6 +46,14 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2022-2-16
+paper title：Low-latency Monaural Speech Enhancement with Deep Filter-bank Equalizer  
+标题：基于深度过滤银行均衡器的低延迟单声道语音增强  
+作者：Chengshi Zheng,Wenzhe Liu,Andong Li,Yuxuan Ke,Xiaodong Li  
+备注：35 pages, 8 figures  
+链接：https://arxiv.org/pdf/2202.06764v1.pdf  
+
+
 ### 2022-2-9
 paper title：A two-step backward compatible fullband speech enhancement system  
 标题：一种两步后向兼容的全带语音增强系统  
@@ -485,6 +493,15 @@ remark: official PyTorch implementation
 Spleeter: https://github.com/deezer/spleeter  
 
 ## AEC
+
+### 2022-2-16
+paper title: Multi-Task Deep Residual Echo Suppression with Echo-aware Loss  
+标题：具有回波感知丢失的多任务深度残余回波抑制  
+作者：Shimin Zhang,Ziteng Wang,Jiayao Sun,Yihui Fu,Biao Tian,Qiang Fu,Lei Xie  
+备注：accepted at ICASSP 2022  
+链接：https://arxiv.org/pdf/2202.06850v1.pdf  
+https://echocatzh.github.io/GFTNN/  
+
 
 ### 2022-2-9
 paper title: A deep complex network with multi-frame filtering for stereophonic acoustic echo cancellation  
