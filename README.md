@@ -54,6 +54,13 @@ paper title：Deep Learning-Based Joint Control of Acoustic Echo Cancellation, B
 备注：Submitted to European Signal Processing Conference (EUSIPCO) 2022, Belgrade, Serbia  
 paper link: https://arxiv.org/pdf/2203.01793v1.pdf  
 
+paper title：DMF-Net: A decoupling-style multi-band fusion model for real-time full-band speech enhancement  
+标题：DMF-Net：一种解耦的实时全频带语音增强多带融合模型  
+作者：Guochen Yu,Yuansheng Guan,Weixin Meng,Chengshi Zheng,Hui Wang  
+机构*：⋆ State Key Laboratory of Media Convergence and Communication, Communication University, of China, Beijing, China, † Institute of Acoustics, Chinese Academy of Sciences, Beijing, China  
+备注：submitted to Eusipco2022; 5 pages  
+paper link: https://arxiv.org/pdf/2203.00472v1.pdf  
+
 
 ### 2022-2-16
 paper title：Low-latency Monaural Speech Enhancement with Deep Filter-bank Equalizer  
