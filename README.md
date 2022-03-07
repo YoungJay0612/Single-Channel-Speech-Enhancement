@@ -46,6 +46,15 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2022-3-7
+paper title：Deep Learning-Based Joint Control of Acoustic Echo Cancellation, Beamforming and Postfiltering  
+标题：基于深度学习的声学回波抵消、波束形成和后滤波联合控制  
+作者：Thomas Haubner,Walter Kellermann  
+机构*：Multimedia Communications and Signal Processing, Friedrich-Alexander-University Erlangen-N¨urnberg  
+备注：Submitted to European Signal Processing Conference (EUSIPCO) 2022, Belgrade, Serbia  
+paper link: https://arxiv.org/pdf/2203.01793v1.pdf  
+
+
 ### 2022-2-16
 paper title：Low-latency Monaural Speech Enhancement with Deep Filter-bank Equalizer  
 标题：基于深度过滤银行均衡器的低延迟单声道语音增强  
