@@ -46,6 +46,21 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2022-3-11
+paper title：PercepNet+: A Phase and SNR Aware PercepNet for Real-Time Speech Enhancement  
+标题：PercepNet+：一种相位和信噪比感知的实时语音增强PercepNet  
+作者：Xiaofeng Ge,Jiangyu Han,Yanhua Long,Haixin Guan  
+机构*：Shanghai Normal University, Shanghai, China, Unisound AI Technology Co., Ltd., Beijing, China  
+备注：This article was submitted to Interspeech 2022  
+paper link: https://arxiv.org/pdf/2203.02263v1.pdf  
+
+paper title：Integrating Statistical Uncertainty into Neural Network-Based Speech Enhancement  
+标题：统计不确定性与神经网络语音增强的融合  
+作者：Huajian Fang,Tal Peer,Stefan Wermter,Timo Gerkmann  
+机构*：Signal Processing (SP), Universit¨at Hamburg, Germany, Knowledge Technology (WTM), Universit¨at Hamburg, Germany  
+Journal-ref：ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)  
+paper link: https://arxiv.org/pdf/2203.02288v1.pdf  
+
 ### 2022-3-7
 paper title：Deep Learning-Based Joint Control of Acoustic Echo Cancellation, Beamforming and Postfiltering  
 标题：基于深度学习的声学回波抵消、波束形成和后滤波联合控制  
