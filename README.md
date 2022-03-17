@@ -46,6 +46,29 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2022-3-17
+paper title：FB-MSTCN: A Full-Band Single-Channel Speech Enhancement Method Based on Multi-Scale Temporal Convolutional Network  
+标题：FB-MSTCN：一种基于多尺度时域卷积网络的全频带单通道语音增强方法  
+作者：Zehua Zhang,Lu Zhang,Xuyi Zhuang,Yukun Qian,Heng Li,Mingjiang Wang  
+机构*：Harbin Institute of Technology, Shenzhen, China  
+备注：Accepted by ICASSP 2022, Deep Noise Suppression Challenge  
+链接：https://arxiv.org/pdf/2203.07684v1.pdf  
+
+paper title：TaylorBeamformer: Learning All-Neural Multi-Channel Speech Enhancement from Taylor's Approximation Theory  
+标题：泰勒波束形成器：从泰勒近似理论学习全神经多通道语音增强  
+作者：Andong Li,Guochen Yu,Chengshi Zheng,Xiaodong Li  
+机构*：Key Laboratory of Noise and Vibration Research, Institute of Acoustics, Chinese Academy of, University of Chinese Academy of Sciences, Beijing, China  
+备注：5 pages, submitted to Interspeech2022  
+链接：https://arxiv.org/pdf/2203.07195v1.pdf  
+
+paper title：MDNet: Learning Monaural Speech Enhancement from Deep Prior Gradient  
+标题：MDNet：从深度先验梯度学习单声道语音增强  
+作者：Andong Li,Chengshi Zheng,Ziyang Zhang,Xiaodong Li  
+机构*：Key Laboratory of Noise and Vibration Research, Institute of Acoustics, Chinese Academy of, University of Chinese Academy of Sciences, Beijing, China, Advanced Computing and Storage Lab, Huawei Technologies Co. Ltd., Beijing, China  
+备注：5 pages, Submitted to Interspeech2022  
+链接：https://arxiv.org/pdf/2203.07179v1.pdf  
+
+
 ### 2022-3-11
 paper title：PercepNet+: A Phase and SNR Aware PercepNet for Real-Time Speech Enhancement  
 标题：PercepNet+：一种相位和信噪比感知的实时语音增强PercepNet  
