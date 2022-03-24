@@ -46,6 +46,14 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2022-3-24
+paper title：Joint Noise Reduction and Listening Enhancement for Full-End Speech Enhancement  
+标题：基于联合降噪和听力增强的全端语音增强  
+作者：Haoyu Li,Yun Liu,Junichi Yamagishi  
+机构*：National Institute of Informatics, Japan, The Graduate University for Advanced Studies (SOKENDAI), Japan  
+备注：Submitted to Interspeech 2022  
+paper links:https://arxiv.org/pdf/2203.11500v1.pdf  
+
 ### 2022-3-17
 paper title：FB-MSTCN: A Full-Band Single-Channel Speech Enhancement Method Based on Multi-Scale Temporal Convolutional Network  
 标题：FB-MSTCN：一种基于多尺度时域卷积网络的全频带单通道语音增强方法  
