@@ -3,6 +3,22 @@ Keep track of good articles on speech processing, mainly on speech enhancement, 
 
 ## Speech Deep Learning
 
+### 2022-4-12
+paper title: DDOS: A MOS Prediction Framework utilizing Domain Adaptive Pre-training and Distribution of Opinion Scores  
+标题：DDoS：一种基于领域自适应预训练和意见得分分布的MOS预测框架  
+作者：Wei-Cheng Tseng,Wei-Tsung Kao,Hung-yi Lee  
+机构*：Graduate Institute of Communication Engineering, National Taiwan University  
+备注：Submitted to Interspeech 2022. Code will be available in the future  
+链接：https://arxiv.org/pdf/2204.03219v1.pdf  
+
+
+paper title: FFC-SE: Fast Fourier Convolution for Speech Enhancement  
+标题：FFC-SE：用于语音增强的快速傅立叶卷积  
+作者：Ivan Shchekotov,Pavel Andreev,Oleg Ivanov,Aibek Alanov,Dmitry Vetrov  
+机构*：∗ Equal contribution, Samsung AI Center, Moscow, Higher School of Economics, Moscow, Skolkovo Institute of Science and Technology, Moscow, Artificial Intelligence Research Institute, Moscow  
+备注：https://arxiv.org/pdf/2204.03042v1.pdf  
+
+
 ### 2021-12-15
 paper title: Shennong: a Python toolbox for audio speech features extraction  
 标题：神农：一个用于音频语音特征提取的Python工具箱  
