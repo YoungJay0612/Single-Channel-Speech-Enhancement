@@ -465,6 +465,14 @@ Facebook：【基于图神经网络的多通道语音增强】Multi-Channel Spee
 
 ## Speech Dereverberation
 
+### 2022-4-20
+paper title：Single-Channel Speech Dereverberation using Subband Network with A Reverberation Time Shortening Target  
+标题：以缩短混响时间为目标的子带网络单通道语音去混响  
+作者：Rui Zhou,Wenye Zhu,Xiaofei Li  
+机构*：Westlake University & Westlake Institute for Advanced Study, Hangzhou, China, Zhejiang University, Hangzhou, China  
+备注：Submitted to INTERSPEECH 2022  
+paper links: https://arxiv.org/pdf/2204.08765v1.pdf  
+
 ### 2021-10-19
 paper title：Controllable Multichannel Speech Dereverberation based on Deep Neural Networks  
 标题：基于深度神经网络的可控多通道语音去混响  
