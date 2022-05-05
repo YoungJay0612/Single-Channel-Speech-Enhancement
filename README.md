@@ -62,6 +62,13 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2022-5-5
+paper title：Improving Dual-Microphone Speech Enhancement by Learning Cross-Channel Features with Multi-Head Attention  
+标题：基于多头注意的跨通道特征学习改进双麦克风语音增强  
+作者：Xinmeng Xu,Rongzhi Gu,Yuexian Zou  
+机构*：ADSPLAB, School of ECE, Peking University, Shenzhen, China, Peng Cheng Laboratory, Shenzhen, China  
+备注：Accepted by ICASSP 2022  
+
 ### 2022-3-24
 paper title：Joint Noise Reduction and Listening Enhancement for Full-End Speech Enhancement  
 标题：基于联合降噪和听力增强的全端语音增强  
