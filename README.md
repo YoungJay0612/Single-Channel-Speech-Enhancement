@@ -472,6 +472,15 @@ Facebook：【基于图神经网络的多通道语音增强】Multi-Channel Spee
 
 ## Speech Dereverberation
 
+### 2022-5-20
+paper title：Utterance Weighted Multi-Dilation Temporal Convolutional Networks for Monaural Speech Dereverberation  
+标题：用于单声道语音去混响的发音加权多伸缩时间卷积网络  
+链接：https://arxiv.org/abs/2205.08455  
+作者：William Ravenscroft,Stefan Goetze,Thomas Hain  
+机构：Department of Computer Science, The University of Sheffield , Sheffield, United Kingdom  
+备注：Submitted to IWAENC 2022  
+github links: https://github.com/jwr1995/DF-TCN  
+
 ### 2022-4-20
 paper title：Single-Channel Speech Dereverberation using Subband Network with A Reverberation Time Shortening Target  
 标题：以缩短混响时间为目标的子带网络单通道语音去混响  
