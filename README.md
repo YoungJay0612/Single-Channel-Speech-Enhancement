@@ -1,5 +1,5 @@
 # Single Channel Speech Enhancement
-记录关于单通道语音增强，包括降噪和去混响，以及语音质量评估等相关的论文，博客和代码等。
+记录关于单通道语音增强，包括降噪和去混响等相关的论文，博客和代码等。
 
 ## DNS比赛
 github地址： https://github.com/microsoft/DNS-Challenge  
