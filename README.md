@@ -476,6 +476,14 @@ Facebook：【基于图神经网络的多通道语音增强】Multi-Channel Spee
 
 ## Speech Dereverberation
 
+### 2022-6-17
+paper title：To Dereverb Or Not to Dereverb? Perceptual Studies On Real-Time Dereverberation Targets  
+标题：去混响还是不去混响？实时去混响目标的感知研究  
+链接：https://arxiv.org/abs/2206.07917  
+作者：Jean-Marc Valin,Ritwik Giri,Shrikant Venkataramani,Umut Isik,Arvindh Krishnaswamy  
+机构：Amazon Web Services, Palo Alto, CA, USA  
+备注：5 pages  
+
 ### 2022-5-20
 paper title：Utterance Weighted Multi-Dilation Temporal Convolutional Networks for Monaural Speech Dereverberation  
 标题：用于单声道语音去混响的发音加权多伸缩时间卷积网络  
