@@ -6,6 +6,13 @@ github地址： https://github.com/microsoft/DNS-Challenge
 网页地址：https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-icassp-2022/  
 
 ## Speech Deep Learning
+### 2022-7-1
+paper title:  Comparing Conventional Pitch Detection Algorithms with a Neural Network Approach  
+标题：传统基音检测算法与神经网络方法的比较  
+链接：https://arxiv.org/abs/2206.14357  
+作者：Anja Kroon  
+机构：ECSE , Speech Communications Final Project, Dept. of Electrical and Computer Engineering, McGill University, Montreal, Quebec, Canada  
+备注：6 pages, 11 figures  
 
 ### 2022-4-12
 paper title: DDOS: A MOS Prediction Framework utilizing Domain Adaptive Pre-training and Distribution of Opinion Scores  
@@ -65,6 +72,19 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 
 ## Speech Denoise
+### 2022-7-1
+paper title：A light-weight full-band speech enhancement model  
+标题：一种轻量级全频带语音增强模型  
+链接：https://arxiv.org/abs/2206.14524  
+作者：Qinwen Hu,Zhongshu Hou,Xiaohuai Le,Jing Lu  
+机构： Key Laboratory of Modern Acoustics, Nanjing University, Nanjing, China  
+
+paper title：ClearBuds: Wireless Binaural Earbuds for Learning-Based Speech Enhancement  
+标题：ClearBuds：用于基于学习的语音增强的无线双耳耳机  
+链接：https://arxiv.org/abs/2206.13611  
+作者：Ishan Chatterjee,Maruchi Kim,Vivek Jayaram,Shyamnath Gollakota,Ira Kemelmacher-Shlizerman,Shwetak Patel,Steven M. Seitz  
+机构：∗Co-primary student authors, Paul G. Allen School of Computer Science & Engineering, University of Washington, Seattle, WA, USA  
+备注：12 pages, Published in Mobisys 2022  
 
 ### 2022-5-5
 paper title：Improving Dual-Microphone Speech Enhancement by Learning Cross-Channel Features with Multi-Head Attention  
