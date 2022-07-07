@@ -1,6 +1,10 @@
 # Single Channel Speech Enhancement
 记录关于单通道语音增强，包括降噪和去混响等相关的论文，博客和代码等。
 
+## GuideBoook
+github链接：https://github.com/WenzheLiu-Speech/The-guidebook-of-speech-enhancement  
+
+
 ## DNS比赛
 github地址： https://github.com/microsoft/DNS-Challenge  
 网页地址：https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-icassp-2022/  
