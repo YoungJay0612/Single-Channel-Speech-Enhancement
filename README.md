@@ -76,6 +76,14 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 
 ## Speech Denoise
+
+### 2022-7-18
+paper title：Direction-Aware Adaptive Online Neural Speech Enhancement with an Augmented Reality Headset in Real Noisy Conversational Environments  
+标题：真实噪声环境下基于增强现实耳机的方向感知自适应在线神经语音增强  
+链接：https://arxiv.org/abs/2207.07296  
+作者：Kouhei Sekiguchi,Aditya Arie Nugraha,Yicheng Du,Yoshiaki Bando,Mathieu Fontaine,Kazuyoshi Yoshii  
+备注：IEEE/RSJ IROS 2022  
+
 ### 2022-7-1
 paper title：A light-weight full-band speech enhancement model  
 标题：一种轻量级全频带语音增强模型  
