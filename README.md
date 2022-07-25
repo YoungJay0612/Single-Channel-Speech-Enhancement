@@ -77,6 +77,21 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2022-7-25
+paper title:DNN-Free Low-Latency Adaptive Speech Enhancement Based on Frame-Online Beamforming Powered by Block-Online FastMNMF  
+标题： 基于块在线FastMNMF的帧在线波束形成的无DNN低时延自适应语音增强  
+链接：https://arxiv.org/abs/2207.10934  
+作者：Aditya Arie Nugraha,Kouhei Sekiguchi,Mathieu Fontaine,Yoshiaki Bando,Kazuyoshi Yoshii  
+机构：Center for Advanced Intelligence Project (AIP), RIKEN, Japan, Graduate School of Informatics, Kyoto University, Japan, LTCI, T´el´ecom Paris, Institut Polytechnique de Paris, France, National Institute of Advanced Industrial Science and Technology (AIST), Japan  
+备注：IWAENC 2022  
+
+paper title:Inference skipping for more efficient real-time speech enhancement with parallel RNNs  
+标题： 基于并行RNN的跳过推理实时语音增强  
+链接：https://arxiv.org/abs/2207.11108  
+作者：Xiaohuai Le,Tong Lei,Kai Chen,Jing Lu  
+机构： Institute of Acoustics, Nanjing University  
+备注：11 pages, 8 figures, accepted by IEEE/ACM TASLP  
+ 
 ### 2022-7-18
 paper title：Direction-Aware Adaptive Online Neural Speech Enhancement with an Augmented Reality Headset in Real Noisy Conversational Environments  
 标题：真实噪声环境下基于增强现实耳机的方向感知自适应在线神经语音增强  
