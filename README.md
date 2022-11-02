@@ -10,6 +10,15 @@ github地址： https://github.com/microsoft/DNS-Challenge
 网页地址：https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-icassp-2022/  
 
 ## Speech Deep Learning
+
+### 2022-11-2
+Parallel Gated Neural Network With Attention Mechanisim For Speech Enhancement  
+标题：具有注意机制的并行门控神经网络语音增强  
+链接：https://arxiv.org/abs/2210.14509  
+作者：Jianqiao Cui,Stefan Bleeck  
+机构：Institute of Sound and Vibration Research, University of Southampton, UK  
+备注：5 pages, 6 figures, references added  
+
 ### 2022-7-1
 paper title:  Comparing Conventional Pitch Detection Algorithms with a Neural Network Approach  
 标题：传统基音检测算法与神经网络方法的比较  
