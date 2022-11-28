@@ -531,6 +531,13 @@ Seoul National Unicersity: Real-time Denoising and Dereverberation with Tiny Rec
 Facebook：【基于图神经网络的多通道语音增强】Multi-Channel Speech Enhancement Using Graph Neural Networks
 
 ## Speech Dereverberation
+### 2022-11-27
+title: SkipConvGAN: Monaural Speech Dereverberation using Generative Adversarial Networks via Complex Time-Frequency Masking  
+标题：SkipConvGAN：基于复杂时频掩蔽的生成对抗性网络单声道语音去混响  
+链接：https://arxiv.org/abs/2211.12623  
+作者：Vinay Kothapally,J. H. L. Hansen  
+机构：University of Texas at Dallas  
+备注：Published in: IEEE/ACM Transactions on Audio, Speech, and Language Processing ( Volume: 30)  
 
 ### 2022-6-17
 paper title：To Dereverb Or Not to Dereverb? Perceptual Studies On Real-Time Dereverberation Targets  
