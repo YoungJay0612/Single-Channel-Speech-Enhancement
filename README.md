@@ -539,6 +539,13 @@ title: SkipConvGAN: Monaural Speech Dereverberation using Generative Adversarial
 机构：University of Texas at Dallas  
 备注：Published in: IEEE/ACM Transactions on Audio, Speech, and Language Processing ( Volume: 30)  
 
+title: Complex-Valued Time-Frequency Self-Attention for Speech Dereverberation  
+标题：用于语音去混响的复值时频自注意  
+链接：https://arxiv.org/abs/2211.12632  
+作者：Vinay Kothapally,John H. L. Hansen  
+机构：Center for Robust Speech Systems (CRSS), The University of Texas at Dallas, TX, USA  
+备注：Interspeech 2022: ISCA Best Student Paper Award Finalist  
+
 ### 2022-6-17
 paper title：To Dereverb Or Not to Dereverb? Perceptual Studies On Real-Time Dereverberation Targets  
 标题：去混响还是不去混响？实时去混响目标的感知研究  
