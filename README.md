@@ -86,6 +86,14 @@ paper link: https://arxiv.org/pdf/2104.09489.pdf
 
 ## Speech Denoise
 
+### 2023-6-26
+paper title: D2Former: a Fully Complex Dual-Path Dual-Decoder Conformer Network Using Joint Complex Masking and Complex Spectral Mapping for Monaural Speech Enhancement  
+链接：https://arxiv.org/abs/2302.11832  
+作者：阿里巴巴  
+备注：ICASSP2023  
+描述：提出了一个基于Conformer结构的完全使用复数值网络的语音增强模型：D2Former。在D2Former设计中，我们将Conformer中的实数值注意力机制扩展到复数值注意力机制，并结合时间序列和频域序列的双路径处理模式，更有效地对复数值时频语音特征序列进行建模。我们基于沿时间轴的复数值扩张卷积（Dilation Convolution）和沿频率轴的递归复数值前馈序列记忆网络 (Complex FSMN)，通过双路径学习模式进一步提升编码器和解码器中的时频特征表示和处理能力。此外，我们通过一个多任务联合学习框架来结合复数值掩蔽和复数值频谱映射两个训练目标的优势，来改善模型学习的性能。因此，D2Former充分利用了复数值网络运算、双路径特征处理、和联合目标训练的优势，在与之前的模型相比中，D2Former以最小的模型参数量（0.87M）在VoiceBank+Demand基准测试中取得了最好的语音增强综合效果。  
+
+
 ### 2022-7-25
 paper title:DNN-Free Low-Latency Adaptive Speech Enhancement Based on Frame-Online Beamforming Powered by Block-Online FastMNMF  
 标题： 基于块在线FastMNMF的帧在线波束形成的无DNN低时延自适应语音增强  
