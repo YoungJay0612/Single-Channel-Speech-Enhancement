@@ -10,6 +10,20 @@ github地址： https://github.com/microsoft/DNS-Challenge
 网页地址：https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-icassp-2022/  
 
 ## Speech Deep Learning
+### 2024-7-17
+Beyond Performance Plateaus: A Comprehensive Study on Scalability in Speech Enhancement  
+标题：超越性能瓶颈：语音增强可扩展性全面研究  
+论文作者：张王优，Kohei Saijo，Jee-weon Jung，李晨达，Shinji Watanabe，钱彦旻  
+完成单位：上海交通大学 ，早稻田大学，卡耐基梅隆大学  
+链接：https://arxiv.org/pdf/2406.04269  
+论文亮点：该论文深入探究了不同架构的语音增强模型（BSRNN、Conv-TasNet、DEMUCS-v4、TF-GridNet）在不同模型复杂度、不同训练数据量、因果/非因果模式等情况下的规模化能力。相关实验采用了来自多个领域的公开数据（VCTK+DEMAND、DNS-2020、WHAMR!、CHiME-4、REVERB），以评估模型的泛化能力和处理不同声学环境的通用性。实验结果揭示了不同模型架构在语音增强规模化能力上的显著差别，也指出了语音增强领域当前尚待探索的研究方向，如构建大规模多领域数据集和设计可高效规模化的模型架构。  
+
+URGENT Challenge: Universality, Robustness, and Generalizability For Speech Enhancement  
+标题：URGENT挑战赛：语音增强的通用性、鲁棒性和泛化性  
+论文作者：张王优,Robin Scheibler，Kohei Saijo，Samuele Cornell，李晨达，倪兆衡，Anurag Kumar，Jan Pirklbauer，Marvin Sach6，Shinji Watanabe，Tim Fingscheidt，钱彦旻  
+完成单位：上海交通大学，卡耐基梅隆大学 ，LY Corporation，早稻田大学，Meta，布伦瑞克工业大学  
+论文亮点：该论文介绍了一项全新的语音增强比赛——URGENT 2024，其着重关注语音增强模型的通用性、鲁棒性和泛化性，旨在构建单个通用模型来同时处理具有不同失真和不同采样率的语音信号。区别于大部分现有语音增强比赛，URGENT 2024采用了更广义的语音增强任务定义（包含多种子任务）、大规模多领域数据（且约束了可用训练数据以保证公平性）以及十分多样的评估指标（四大类）。该论文还介绍了针对所提出的全新任务的通用语音增强框架，并基于多种常见语音增强模型进行了验证性实验。  
+链接：https://arxiv.org/abs/2406.04660  
 
 ### 2022-11-2
 Parallel Gated Neural Network With Attention Mechanisim For Speech Enhancement  
